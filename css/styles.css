@@ -2,7 +2,9 @@
   display: none;
 }
 #no-vote {
-  background-color: grey;
+  background-color: black;
+  color: red;
+  text-align: center;
 
 }
 .span {
